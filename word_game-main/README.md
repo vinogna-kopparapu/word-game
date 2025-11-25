@@ -1,25 +1,3 @@
-# INFO6250 Project1 - Server-side Dynamic Site
-
-**Due Sun Oct 20, 11:59pm PT**
-
-Special Notes:
-- This is a big part of your grade, please check the requirements CAREFULLY
-- It is absolutely not worth risking it to copy work, the risk is just not worth it.  Make sure you understand the expectations about copying, ChatGPT/Copilot/etc, and referencing anyone's work.
-
-## Submission Instructions
-
-- Start from the up-to-date main branch (git checkout main; git pull origin main)
-- Create a feature branch named 'project1' (git checkout -b project1)
-- Create a package.json and necessary files to complete the work described in this README
-  - You can add/modify any files except as limited below
-    - In particular: Do not load external JS, no client-side/browser JS, do not change words.js
-  - Remember that all work you submit must be based on my code or represent your writing
-    - Do not start from someone else's code - write it all yourself
-    - ChatGPT and other LLMs do not count as writing it yourself
-- Add, commit, and push the branch to github
-    - Don't forget to check the files, this project is not in work/, you may have .gitignore mismatch!
-- Create a PR to merge to main
-- Be sure to include the reviewer(s).
 
 ## Goals
 
